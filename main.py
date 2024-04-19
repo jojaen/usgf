@@ -1,7 +1,7 @@
 def check_available():
     print ('It works!')
 
-def remove_odd(nums = [1,2,3,4]):
+def remove_odd(nums = [1  ,2  ,3  ,4  ]):
     odds = []
     evens = []
     for i in nums:
